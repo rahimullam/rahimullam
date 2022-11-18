@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahimullam
 - 👀 I’m interested in learing new software technologies
-- 🌱 I’m currently learning microsoft azzure
+- 🌱 I’m currently learning microsoft azure
 - 💞️ I’m looking to collaborate with software companies
 - 📫 How to reach me rahimullamahmmad@gmail.com
 
